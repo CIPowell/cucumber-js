@@ -161,7 +161,7 @@
     "serve-static": "^1.10.0",
     "sinon": "^1.17.4",
     "sinon-chai": "^2.8.0",
-    "tmp": "0.0.31"
+    "tmp": "0.2.4"
   },
   "scripts": {
     "build-local-continuous": "babel src --watch -d lib --ignore '**/*_spec.js' --retain-lines",
